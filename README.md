@@ -1,4 +1,4 @@
-##  🚀 <span style="color:red"> CKS-ALL
+##  🚀 <p style="color:red;"> CKS-ALL </p>
 # etcd - stores data in plain text
 That means sensitive data (like secrets) can be read directly from the disk.
 # TLS Encryption
